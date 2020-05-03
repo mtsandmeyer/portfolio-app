@@ -4,6 +4,9 @@
 
 .App-header {
   background-color: #181118;
-  min-height: 100vh;
   margin-top: 0;
+}
+
+footer {
+  margin-bottom: 10rem;
 }
